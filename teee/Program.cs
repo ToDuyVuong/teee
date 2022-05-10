@@ -13,5 +13,9 @@ namespace teee
             Console.WriteLine("aaaa");
             Console.ReadKey();
         }
+        private void A()
+        {
+            //////
+        }
     }
 }
